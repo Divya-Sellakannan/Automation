@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Opportunity",
+                "referenceId": "OpportunityRef4"
+            },
+            "Name": "Test Opp 4",
+            "StageName": "Qualification",
+            "CloseDate": "2021-10-05",
+            "AccountId": "@AccountRef5"
+        }
+    ]
+}
