@@ -1,3 +1,0 @@
-Account-Contact-plan.json
-Account-Opportunity-plan.json
-Student__c-plan.json
