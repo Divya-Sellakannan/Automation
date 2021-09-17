@@ -6,7 +6,6 @@
 **\staticresources\**
 **\lwc\**
 **\layouts\**
-**\pages\**
 **\appMenus\**
 **\applications\**
 **\aura\**
@@ -19,7 +18,6 @@
 **\remoteSiteSettings\**
 **\tabs\**
 **\classes\**
-**\weblinks\**
 
 # Standard metadata
 package.xml

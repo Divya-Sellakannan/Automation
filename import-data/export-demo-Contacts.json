@@ -1,0 +1,55 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FirstName": "Rose",
+            "LastName": "Gonzalez",
+            "Phone": "(512) 757-6000",
+            "Email": "rose@edge.com"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "FirstName": "Sean",
+            "LastName": "Forbes",
+            "Phone": "(512) 757-6000",
+            "Email": "sean@edge.com"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "FirstName": "Jack",
+            "LastName": "Rogers",
+            "Phone": "(336) 222-7000",
+            "Email": "jrogers@burlington.com"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "FirstName": "Tim",
+            "LastName": "Barr",
+            "Phone": "(312) 596-1000",
+            "Email": "barr_tim@grandhotels.com"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "FirstName": "John",
+            "LastName": "Bond",
+            "Phone": "(312) 596-1000",
+            "Email": "bond_john@grandhotels.com"
+        }
+        
+    ]
+}

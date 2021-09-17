@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Student__c",
+                "referenceId": "Student__cRef1"
+            },
+            "Name__c": "kumar",
+            "Phone__c": "(998) 878-6766"
+        },
+        {
+            "attributes": {
+                "type": "Student__c",
+                "referenceId": "Student__cRef2"
+            },
+            "Name__c": "kumar",
+            "Phone__c": "(888) 766-5432"
+        }
+    ]
+}

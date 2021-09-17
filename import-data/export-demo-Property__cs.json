@@ -1,0 +1,220 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef1"
+            },
+            "Name": "Stunning Victorian",
+            "Address__c": "18 Henry St",
+            "City__c": "Cambridge",
+            "State__c": "MA",
+            "Zip__c": "01742",
+            "Price__c": 975000,
+            "Beds__c": 4,
+            "Baths__c": 3,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house01.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house01sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef2"
+            },
+            "Name": "Seaport District Retreat",
+            "Address__c": "121 Harborwalk",
+            "City__c": "Boston",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 450000,
+            "Beds__c": 3,
+            "Baths__c": 3,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house09.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house09sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef3"
+            },
+            "Name": "Contemporary City Living",
+            "Address__c": "640 Harrison Ave",
+            "City__c": "Boston",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 650000,
+            "Beds__c": 2,
+            "Baths__c": 2,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house08.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house08sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef4"
+            },
+            "Name": "Ultimate Sophistication",
+            "Address__c": "24 Pearl St",
+            "City__c": "Cambridge",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 1200000,
+            "Beds__c": 5,
+            "Baths__c": 4,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house02.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house02sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef5"
+            },
+            "Name": "Architectural Details",
+            "Address__c": "95 Gloucester St",
+            "City__c": "Boston",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 690000,
+            "Beds__c": 3,
+            "Baths__c": 3,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house11.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house11sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef6"
+            },
+            "Name": "Modern City Living",
+            "Address__c": "72 Francis st",
+            "City__c": "Boston",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 825000,
+            "Beds__c": 5,
+            "Baths__c": 4,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house03.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house03sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef7"
+            },
+            "Name": "Contemporary Luxury",
+            "Address__c": "145 Commonwealth Ave",
+            "City__c": "Boston",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 845000,
+            "Beds__c": 4,
+            "Baths__c": 3,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house12.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house12sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef8"
+            },
+            "Name": "Stunning Colonial",
+            "Address__c": "32 Prince st",
+            "City__c": "Cambridge",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 930000,
+            "Beds__c": 5,
+            "Baths__c": 4,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house04.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house04sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef9"
+            },
+            "Name": "Waterfront in the City",
+            "Address__c": "110 Baxter Street",
+            "City__c": "Boston",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 850000,
+            "Beds__c": 3,
+            "Baths__c": 2,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef10"
+            },
+            "Name": "Quiet Retreat",
+            "Address__c": "448 Hanover St",
+            "City__c": "Boston",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 725000,
+            "Beds__c": 4,
+            "Baths__c": 2,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef11"
+            },
+            "Name": "City Living",
+            "Address__c": "127 Endicott St",
+            "City__c": "Boston",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 450000,
+            "Beds__c": 3,
+            "Baths__c": 1,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef7"
+        },
+        {
+            "attributes": {
+                "type": "Property__c",
+                "referenceId": "Property__cRef12"
+            },
+            "Name": "Heart of Harvard Square",
+            "Address__c": "48 Brattle st",
+            "City__c": "Cambridge",
+            "State__c": "MA",
+            "Zip__c": "02420",
+            "Price__c": 450000,
+            "Beds__c": 5,
+            "Baths__c": 4,
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10.jpg",
+            "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10sq.jpg",
+            "Description__c": "Lorem ipsum dolor sit amet",
+            "Broker__c": "@Broker__cRef8"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Support_tier__mdt",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Support_tier__mdts.json"
+        ]
+    }
+]

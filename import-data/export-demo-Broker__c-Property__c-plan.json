@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Broker__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "export-demo-Broker__cs.json"
+        ]
+    },
+    {
+        "sobject": "Property__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "export-demo-Property__cs.json"
+        ]
+    }
+]

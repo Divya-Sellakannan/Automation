@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Support_tier__mdt",
+                "referenceId": "Support_tier__mdtRef6"
+            },
+            "Label": "Silver1",
+            "Default_Discount__c": 10
+        }
+           ]
+}
