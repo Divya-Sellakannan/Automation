@@ -1,4 +1,3 @@
 Account-Contact-plan.json
-export-demo-Contact-plan.json
-export-demo-Broker__c-Property__c-plan.json
 Account-Opportunity-plan.json
+Student__c-plan.json

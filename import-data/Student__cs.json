@@ -3,18 +3,11 @@
         {
             "attributes": {
                 "type": "Student__c",
-                "referenceId": "Student__cRef1"
+                "referenceId": "Student__cRef5"
             },
-            "Name__c": "kumar",
-            "Phone__c": "(998) 878-6766"
-        },
-        {
-            "attributes": {
-                "type": "Student__c",
-                "referenceId": "Student__cRef2"
-            },
-            "Name__c": "kumar",
-            "Phone__c": "(888) 766-5432"
+            "Name": "Jeff",
+            "Email__c": "Jeff@ymail.com",
+            "Phone__c": "(234) 872-0505"
         }
     ]
 }
